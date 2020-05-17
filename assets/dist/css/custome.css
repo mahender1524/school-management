@@ -1,0 +1,17 @@
+.is-invalid {
+color:#dc3545;
+}
+.btn-dlete{
+color:#dc3545;
+}
+
+.hide-body{
+display: none;
+}
+.show-body{
+display: block;
+}
+
+.btn-teacher{
+	margin-left: 558px;
+	 }
